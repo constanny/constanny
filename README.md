@@ -1,56 +1,54 @@
 <div align="center">
 
-<img src="./assets/developer-workspace.svg" width="100%" alt="Escritorio de programación en tonos café y crema, con un estilo minimalista y acogedor" />
+# ¡Hola! Soy Constanza 👋🏻
 
-<br />
+### Estudiante de Ingeniería en Informática en la UTFSM 🇨🇱
 
-![Software Development](https://img.shields.io/badge/Software%20Development-705A4C?style=flat-square&logoColor=white)
-![Cloud & DevOps](https://img.shields.io/badge/Cloud%20%26%20DevOps-8D7D72?style=flat-square&logoColor=white)
-![Technology & Innovation](https://img.shields.io/badge/Technology%20%26%20Innovation-B09A86?style=flat-square&logoColor=white)
+![Software Development](https://img.shields.io/badge/Software%20Development-79604D?style=for-the-badge&logoColor=white)
+![Cloud & DevOps](https://img.shields.io/badge/Cloud%20%26%20DevOps-8C8079?style=for-the-badge&logoColor=white)
+![Technology & Innovation](https://img.shields.io/badge/Technology%20%26%20Innovation-A58D7B?style=for-the-badge&logoColor=white)
+
+*Learning, building & exploring ✦*
 
 </div>
 
-### Sobre mí
+---
 
-Soy estudiante de último año de **Ingeniería en Informática en la Universidad Técnica Federico Santa María (UTFSM)**, Chile.
+## Sobre mí
 
-Me interesa el **desarrollo de software**, la creación de productos digitales y seguir explorando distintas áreas de la tecnología. Disfruto aprender, resolver problemas y comprender cómo se conectan los componentes de un sistema.
+<img align="right" width="40%" alt="Ilustración rosa pastel de un escritorio de programación con un gatito durmiendo" src="./assets/developer-workspace.svg" />
 
-Actualmente participo en el desarrollo **backend de ORION**, una plataforma académica para el reporte, la coordinación y el registro de incidentes.
+Soy estudiante de último año de **Ingeniería en Informática en la Universidad Técnica Federico Santa María**, Chile.
+
+Me interesa el desarrollo de software y la creación de productos digitales. Disfruto aprender, resolver problemas y entender cómo se conectan las distintas partes de un sistema.
+
+- Trabajo en ORION, una plataforma académica de gestión de incidentes, donde contribuyo al desarrollo backend.
+- Me interesa crear productos digitales útiles, desde la idea hasta su implementación.
+- Disfruto explorar distintas áreas de la informática mientras sigo fortaleciendo mis habilidades.
+
+<br clear="right" />
 
 ---
 
-### Tech Stack
+## Stack tecnológico
 
 <div align="center">
 
-<sub>Tecnologías que he utilizado en proyectos y durante mi formación académica.</sub>
-
-<br /><br />
+<sub>Tecnologías utilizadas en proyectos y durante mi formación académica.</sub>
 
 [![Tecnologías](https://skillicons.dev/icons?i=python,ts,js,cpp,html,react,tailwind,bootstrap,nodejs,nestjs,fastapi,spring,postgres,mongodb,prisma,aws,docker,kubernetes,jenkins,git,postman,jest,github,vscode&theme=dark&perline=8)](https://skillicons.dev)
 
-<sub>Documentación de APIs con Swagger / OpenAPI.</sub>
+<sub>También he trabajado con Swagger / OpenAPI para documentar APIs.</sub>
 
 </div>
 
 ---
 
-### Proyecto destacado
-
-**ORION** · Plataforma académica de gestión de incidentes
-
-Desarrollo backend enfocado en lógica de negocio, APIs, persistencia de datos e integración con servicios de AWS.
-
-`NestJS` · `PostgreSQL / PostGIS` · `AWS` · `Docker`
-
----
-
-### Contacto
+## Conecta conmigo
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Constanza%20Ulloa-705A4C?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/constanza-ulloa-179696401/)
-[![GitHub](https://img.shields.io/badge/GitHub-constanny-8D7D72?style=flat-square&logo=github&logoColor=white)](https://github.com/constanny)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Constanza%20Ulloa-79604D?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/constanza-ulloa-179696401/)
+[![GitHub](https://img.shields.io/badge/GitHub-constanny-8C8079?style=for-the-badge&logo=github&logoColor=white)](https://github.com/constanny)
 
 </div>
