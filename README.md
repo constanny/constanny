@@ -16,7 +16,7 @@
 
 ## Sobre mí
 
-<img align="right" width="40%" alt="Escritorio tecnológico con código, luz cálida y tonos café" src="./assets/cozy-tech-workspace.jpg" />
+<img align="right" width="40%" alt="Escritorio tecnológico con código, luz cálida y tonos café" src="./assets/cozy-tech-workspace-cropped.webp" />
 
 Soy estudiante de último año de **Ingeniería en Informática en la Universidad Técnica Federico Santa María**, Chile.
 
