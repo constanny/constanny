@@ -4,9 +4,9 @@
 
 ### Estudiante de Ingeniería en Informática en la UTFSM 🇨🇱
 
-![Software Development](https://img.shields.io/badge/Software%20Development-79604D?style=for-the-badge&logoColor=white)
-![Cloud & DevOps](https://img.shields.io/badge/Cloud%20%26%20DevOps-8C8079?style=for-the-badge&logoColor=white)
-![Technology & Innovation](https://img.shields.io/badge/Technology%20%26%20Innovation-A58D7B?style=for-the-badge&logoColor=white)
+![Software Development](https://img.shields.io/badge/Software%20Development-1F2A44?style=for-the-badge&logoColor=white)
+![Cloud & DevOps](https://img.shields.io/badge/Cloud%20%26%20DevOps-3A4A6A?style=for-the-badge&logoColor=white)
+![Technology & Innovation](https://img.shields.io/badge/Technology%20%26%20Innovation-B8A08C?style=for-the-badge&logoColor=white)
 
 *Learning, building & exploring ✦*
 
@@ -48,7 +48,7 @@ Me interesa el desarrollo de software y la creación de productos digitales. Dis
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Constanza%20Ulloa-79604D?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/constanza-ulloa-179696401/)
-[![GitHub](https://img.shields.io/badge/GitHub-constanny-8C8079?style=for-the-badge&logo=github&logoColor=white)](https://github.com/constanny)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Constanza%20Ulloa-1F2A44?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/constanza-ulloa-179696401/)
+[![GitHub](https://img.shields.io/badge/GitHub-constanny-6B7280?style=for-the-badge&logo=github&logoColor=white)](https://github.com/constanny)
 
 </div>
