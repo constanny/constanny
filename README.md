@@ -4,11 +4,11 @@
 
 ### Estudiante de Ingeniería en Informática en la UTFSM 🇨🇱
 
-![Desarrollo de Software](https://img.shields.io/badge/Desarrollo%20de%20Software-EA8DBB?style=for-the-badge&logoColor=white)
+![Software Development](https://img.shields.io/badge/Software%20Development-EA8DBB?style=for-the-badge&logoColor=white)
 ![Cloud & DevOps](https://img.shields.io/badge/Cloud%20%26%20DevOps-C78ACD?style=for-the-badge&logoColor=white)
-![Soluciones Digitales](https://img.shields.io/badge/Soluciones%20Digitales-E8A7C8?style=for-the-badge&logoColor=white)
+![Technology & Innovation](https://img.shields.io/badge/Technology%20%26%20Innovation-E8A7C8?style=for-the-badge&logoColor=white)
 
-*Transformando ideas en soluciones reales ✦*
+*Learning, building & exploring ✦*
 
 </div>
 
@@ -22,7 +22,7 @@ Soy estudiante de último año de **Ingeniería en Informática en la Universida
 
 Me gusta **transformar ideas en soluciones digitales reales**, aprender nuevas tecnologías y descubrir cómo se conectan las distintas partes de un producto.
 
-- 🚀 Trabajo en **ORION**, una plataforma académica de gestión de incidentes, donde contribuyo al desarrollo backend.
+- 💻 Trabajo en **ORION**, una plataforma académica de gestión de incidentes, donde contribuyo al desarrollo backend.
 - 🧩 Me interesa crear productos digitales útiles, desde la idea hasta su implementación.
 - 🌸 Disfruto explorar distintas áreas de la informática mientras sigo fortaleciendo mis habilidades.
 
