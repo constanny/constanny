@@ -8,7 +8,7 @@
 ![Cloud & DevOps](https://img.shields.io/badge/Cloud%20%26%20DevOps-9385B2?style=for-the-badge&logoColor=white)
 ![Technology & Innovation](https://img.shields.io/badge/Technology%20%26%20Innovation-C4A0B2?style=for-the-badge&logoColor=white)
 
-*Entre código y creatividad ✦*
+*Learning, building & exploring ✦*
 
 </div>
 
@@ -22,9 +22,9 @@ Soy estudiante de último año de **Ingeniería en Informática en la Universida
 
 Me interesa el desarrollo de software y la creación de productos digitales. Disfruto aprender, resolver problemas y entender cómo se conectan las distintas partes de un sistema.
 
-- **ORION:** participo en el desarrollo backend de una plataforma académica de gestión de incidentes.
-- Me interesa combinar desarrollo, tecnología y creación de productos.
-- Continúo explorando distintas áreas de la informática.
+- Trabajo en ORION, una plataforma académica de gestión de incidentes, donde contribuyo al desarrollo backend.
+- Me interesa crear productos digitales útiles, desde la idea hasta su implementación.
+- Disfruto explorar distintas áreas de la informática mientras sigo fortaleciendo mis habilidades.
 
 <br clear="right" />
 
