@@ -1,65 +1,54 @@
 <div align="center">
 
-# Hi there! I'm Constanza 👋🏻
+# ¡Hola! Soy Constanza 👋🏻
 
-### Computer Engineering Student @ UTFSM 🇨🇱
+### Estudiante de Ingeniería en Informática en la UTFSM 🇨🇱
 
-**Software Development · Cloud & DevOps · Building Digital Solutions**
+![Desarrollo de Software](https://img.shields.io/badge/Desarrollo%20de%20Software-EA8DBB?style=for-the-badge&logoColor=white)
+![Cloud & DevOps](https://img.shields.io/badge/Cloud%20%26%20DevOps-C78ACD?style=for-the-badge&logoColor=white)
+![Soluciones Digitales](https://img.shields.io/badge/Soluciones%20Digitales-E8A7C8?style=for-the-badge&logoColor=white)
+
+*Transformando ideas en soluciones reales ✦*
 
 </div>
 
 ---
 
-## 💻 About Me
+## 💗 Sobre mí
 
-<img align="right" width="43%" alt="Illustrated purple developer workspace" src="./assets/developer-workspace.svg" />
+<img align="right" width="43%" alt="Ilustración rosa pastel de un escritorio de programación con un gatito durmiendo" src="./assets/developer-workspace.svg" />
 
-I'm a final-year **Computer Engineering student at Universidad Técnica Federico Santa María**, Chile.
+Soy estudiante de último año de **Ingeniería en Informática en la Universidad Técnica Federico Santa María**, Chile.
 
-I enjoy **turning ideas into real-world digital solutions**, learning new technologies, and understanding how different parts of a product work together.
+Me gusta **transformar ideas en soluciones digitales reales**, aprender nuevas tecnologías y descubrir cómo se conectan las distintas partes de un producto.
 
-- 🚀 Working on **ORION**, an academic incident management platform, with a focus on backend development.
-- 🧩 Interested in building useful digital products, from ideas to implementation.
-- 🌱 Always learning and exploring where I want to grow in tech.
+- 🚀 Trabajo en **ORION**, una plataforma académica de gestión de incidentes, donde contribuyo al desarrollo backend.
+- 🧩 Me interesa crear productos digitales útiles, desde la idea hasta su implementación.
+- 🌸 Disfruto explorar distintas áreas de la informática mientras sigo fortaleciendo mis habilidades.
 
 <br clear="right" />
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Stack tecnológico
 
-<sub>Technologies I've worked with through coursework and projects.</sub>
+<div align="center">
 
-**Languages**
+Tecnologías que he utilizado en proyectos y durante mi formación académica.
 
-[![Languages](https://skillicons.dev/icons?i=python,ts,js,cpp&theme=dark)](https://skillicons.dev)
+[![Tecnologías](https://skillicons.dev/icons?i=python,ts,js,cpp,html,react,tailwind,bootstrap,nodejs,nestjs,fastapi,spring,postgres,mongodb,prisma,aws,docker,kubernetes,jenkins,git,postman,jest,github,vscode&theme=dark&perline=8)](https://skillicons.dev)
 
-**Frontend**
+<sub>También he trabajado con Swagger / OpenAPI para documentar APIs.</sub>
 
-[![Frontend](https://skillicons.dev/icons?i=html,react,tailwind,bootstrap&theme=dark)](https://skillicons.dev)
-
-**Backend**
-
-[![Backend](https://skillicons.dev/icons?i=nodejs,nestjs,fastapi,spring&theme=dark)](https://skillicons.dev)
-
-**Databases & ORM**
-
-[![Databases and ORM](https://skillicons.dev/icons?i=postgres,mongodb,prisma&theme=dark)](https://skillicons.dev)
-
-**Cloud & DevOps**
-
-[![Cloud and DevOps](https://skillicons.dev/icons?i=aws,docker,kubernetes,jenkins,git&theme=dark)](https://skillicons.dev)
-
-**Tools & Testing**
-
-[![Tools and Testing](https://skillicons.dev/icons?i=postman,jest,github,vscode&theme=dark)](https://skillicons.dev)
-
-<sub>Also familiar with Swagger / OpenAPI for API documentation.</sub>
+</div>
 
 ---
 
-## 🌐 Connect with Me
+## 🌷 Conecta conmigo
 
-[![GitHub](https://img.shields.io/badge/GitHub-constanny-25213B?style=for-the-badge&logo=github&logoColor=white)](https://github.com/constanny)
+<div align="center">
 
-<!-- Add your LinkedIn and contact email here when you're ready to make them public. -->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Constanza%20Ulloa-EA8DBB?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/constanza-ulloa-179696401/)
+[![GitHub](https://img.shields.io/badge/GitHub-constanny-C78ACD?style=for-the-badge&logo=github&logoColor=white)](https://github.com/constanny)
+
+</div>
