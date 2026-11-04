@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="370" viewBox="0 0 720 370" role="img" aria-label="Illustration of a cozy developer workspace under a purple twilight sky">
+<defs>
+<linearGradient id="sky" x1="0" y1="0" x2="0" y2="1"><stop stop-color="#10152f"/><stop offset=".57" stop-color="#453476"/><stop offset="1" stop-color="#bd63a6"/></linearGradient>
+<linearGradient id="screen" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#172844"/><stop offset="1" stop-color="#24204b"/></linearGradient>
+<linearGradient id="desk" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#151b32"/><stop offset="1" stop-color="#34305b"/></linearGradient>
+</defs>
+<rect width="720" height="370" rx="22" fill="#111827"/><rect x="20" y="20" width="680" height="330" rx="16" fill="#181a37"/>
+<rect x="42" y="36" width="300" height="194" rx="8" fill="#0b1327" stroke="#7566b6" stroke-width="5"/><rect x="51" y="45" width="282" height="176" fill="url(#sky)"/>
+<circle cx="264" cy="94" r="26" fill="#ffcae7" opacity=".9"/><path d="M51 184L99 144L138 169L187 132L233 168L269 151L333 202V221H51Z" fill="#312e66"/><path d="M51 204L108 168L163 197L214 171L278 199L333 179V221H51Z" fill="#171c3f"/>
+<g fill="#f0b6e5"><circle cx="95" cy="89" r="2"/><circle cx="124" cy="64" r="2"/><circle cx="190" cy="82" r="1.8"/><circle cx="303" cy="140" r="1.7"/></g>
+<rect x="387" y="49" width="274" height="162" rx="10" fill="#0b1125" stroke="#6866c0" stroke-width="6"/><rect x="399" y="61" width="250" height="138" rx="5" fill="url(#screen)"/>
+<g font-family="monospace" font-size="15"><text x="416" y="88" fill="#bc9afd">const</text><text x="469" y="88" fill="#e8d8ff">build =</text><text x="416" y="113" fill="#80dfff">ideas</text><text x="464" y="113" fill="#d9e7ff">=&gt; solutions;</text><text x="416" y="146" fill="#f4b9d6">&lt;create</text><text x="484" y="146" fill="#96e3b1"> something</text><text x="570" y="146" fill="#f4b9d6">/&gt;</text></g>
+<rect x="423" y="166" width="96" height="5" rx="2.5" fill="#6c7ec8"/><rect x="528" y="166" width="61" height="5" rx="2.5" fill="#66bacb"/>
+<path d="M370 210h305l30 69H355Z" fill="#252849"/><rect x="343" y="275" width="347" height="13" rx="6" fill="#8b72c1"/><rect x="43" y="286" width="650" height="15" rx="5" fill="url(#desk)"/><rect x="70" y="300" width="596" height="42" rx="4" fill="#11162b"/>
+<rect x="112" y="244" width="128" height="35" rx="7" fill="#232846"/><path d="M124 245c-16-27 8-47 33-42 12-29 51-21 57 8 34-3 45 36 22 43Z" fill="#3c416c"/><circle cx="154" cy="248" r="4" fill="#a5a0eb"/><circle cx="209" cy="248" r="4" fill="#a5a0eb"/>
+<rect x="261" y="261" width="55" height="25" rx="4" fill="#9d6ba2"/><path d="M315 265c28-3 25 21 1 18" fill="none" stroke="#9d6ba2" stroke-width="6"/><path d="M282 255c-7-13 8-16 1-29" fill="none" stroke="#efd4ff" opacity=".65" stroke-width="3"/>
+<g fill="#c19ade"><path d="M82 282l-18-58 8-4 19 62Z"/><path d="M90 282l11-42 8 3-10 39Z"/></g>
+<g fill="#b29dea"><circle cx="614" cy="247" r="4"/><circle cx="630" cy="235" r="3"/><circle cx="600" cy="232" r="2"/></g>
+<text x="360" y="329" text-anchor="middle" font-family="Verdana,sans-serif" font-size="15" fill="#cdbdff">turning ideas into real-world solutions ✦</text>
+</svg>
