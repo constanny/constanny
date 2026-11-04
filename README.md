@@ -4,37 +4,37 @@
 
 ### Estudiante de Ingeniería en Informática en la UTFSM 🇨🇱
 
-![Software Development](https://img.shields.io/badge/Software%20Development-EA8DBB?style=for-the-badge&logoColor=white)
-![Cloud & DevOps](https://img.shields.io/badge/Cloud%20%26%20DevOps-C78ACD?style=for-the-badge&logoColor=white)
-![Technology & Innovation](https://img.shields.io/badge/Technology%20%26%20Innovation-E8A7C8?style=for-the-badge&logoColor=white)
+![Software Development](https://img.shields.io/badge/Software%20Development-B987A5?style=for-the-badge&logoColor=white)
+![Cloud & DevOps](https://img.shields.io/badge/Cloud%20%26%20DevOps-9385B2?style=for-the-badge&logoColor=white)
+![Technology & Innovation](https://img.shields.io/badge/Technology%20%26%20Innovation-C4A0B2?style=for-the-badge&logoColor=white)
 
-*Learning, building & exploring ✦*
+*Entre código y creatividad ✦*
 
 </div>
 
 ---
 
-## 💗 Sobre mí
+## Sobre mí
 
-<img align="right" width="43%" alt="Ilustración rosa pastel de un escritorio de programación con un gatito durmiendo" src="./assets/developer-workspace.svg" />
+<img align="right" width="40%" alt="Ilustración rosa pastel de un escritorio de programación con un gatito durmiendo" src="./assets/developer-workspace.svg" />
 
 Soy estudiante de último año de **Ingeniería en Informática en la Universidad Técnica Federico Santa María**, Chile.
 
-Me gusta **transformar ideas en soluciones digitales reales**, aprender nuevas tecnologías y descubrir cómo se conectan las distintas partes de un producto.
+Me interesa el desarrollo de software y la creación de productos digitales. Disfruto aprender, resolver problemas y entender cómo se conectan las distintas partes de un sistema.
 
-- 💻 Trabajo en **ORION**, una plataforma académica de gestión de incidentes, donde contribuyo al desarrollo backend.
-- 🧩 Me interesa crear productos digitales útiles, desde la idea hasta su implementación.
-- 🌸 Disfruto explorar distintas áreas de la informática mientras sigo fortaleciendo mis habilidades.
+- **ORION:** participo en el desarrollo backend de una plataforma académica de gestión de incidentes.
+- Me interesa combinar desarrollo, tecnología y creación de productos.
+- Continúo explorando distintas áreas de la informática.
 
 <br clear="right" />
 
 ---
 
-## 🛠️ Stack tecnológico
+## Stack tecnológico
 
 <div align="center">
 
-Tecnologías que he utilizado en proyectos y durante mi formación académica.
+<sub>Tecnologías utilizadas en proyectos y durante mi formación académica.</sub>
 
 [![Tecnologías](https://skillicons.dev/icons?i=python,ts,js,cpp,html,react,tailwind,bootstrap,nodejs,nestjs,fastapi,spring,postgres,mongodb,prisma,aws,docker,kubernetes,jenkins,git,postman,jest,github,vscode&theme=dark&perline=8)](https://skillicons.dev)
 
@@ -44,11 +44,11 @@ Tecnologías que he utilizado en proyectos y durante mi formación académica.
 
 ---
 
-## 🌷 Conecta conmigo
+## Conecta conmigo
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Constanza%20Ulloa-EA8DBB?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/constanza-ulloa-179696401/)
-[![GitHub](https://img.shields.io/badge/GitHub-constanny-C78ACD?style=for-the-badge&logo=github&logoColor=white)](https://github.com/constanny)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Constanza%20Ulloa-B987A5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/constanza-ulloa-179696401/)
+[![GitHub](https://img.shields.io/badge/GitHub-constanny-9385B2?style=for-the-badge&logo=github&logoColor=white)](https://github.com/constanny)
 
 </div>
