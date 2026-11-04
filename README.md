@@ -16,7 +16,7 @@
 
 ## Sobre mí
 
-<img align="right" width="40%" alt="Ilustración rosa pastel de un escritorio de programación con un gatito durmiendo" src="./assets/developer-workspace.svg" />
+<img align="right" width="40%" alt="Escritorio tecnológico con código, luz cálida y tonos café" src="./assets/cozy-tech-workspace.jpg" />
 
 Soy estudiante de último año de **Ingeniería en Informática en la Universidad Técnica Federico Santa María**, Chile.
 
