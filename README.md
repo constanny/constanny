@@ -6,7 +6,7 @@
 
 ![Software Development](https://img.shields.io/badge/Software%20Development-1F2A44?style=for-the-badge&logoColor=white)
 ![Backend & QA](https://img.shields.io/badge/Backend%20%26%20QA-3A4A6A?style=for-the-badge&logoColor=white)
-![Technology & Innovation](https://img.shields.io/badge/Technology%20%26%20Innovation-B8A08C?style=for-the-badge&logoColor=white)
+![Exploring Cloud & DevOps](https://img.shields.io/badge/Exploring%20Cloud%20%26%20DevOps-B8A08C?style=for-the-badge&logoColor=white)
 
 *Learning, building & exploring ✦*
 
@@ -24,7 +24,7 @@ Me interesa el desarrollo de software y la creación de productos digitales. Dis
 
 - He participado en el desarrollo backend de ORION, una plataforma académica de gestión de incidentes.
 - Realicé mi práctica industrial en Aseguramiento de Calidad de Software (QA) en VISIION.
-- Disfruto explorar distintas áreas de la informática mientras sigo fortaleciendo mis habilidades.
+- Me interesa seguir aprendiendo sobre **Cloud, DevOps e inteligencia artificial**, además de fortalecer mis habilidades en desarrollo de software.
 
 <br clear="right" />
 
