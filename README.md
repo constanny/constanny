@@ -5,7 +5,7 @@
 ### Estudiante de Ingeniería en Informática en la UTFSM 🇨🇱
 
 ![Software Development](https://img.shields.io/badge/Software%20Development-1F2A44?style=for-the-badge&logoColor=white)
-![Cloud & DevOps](https://img.shields.io/badge/Cloud%20%26%20DevOps-3A4A6A?style=for-the-badge&logoColor=white)
+![Backend & QA](https://img.shields.io/badge/Backend%20%26%20QA-3A4A6A?style=for-the-badge&logoColor=white)
 ![Technology & Innovation](https://img.shields.io/badge/Technology%20%26%20Innovation-B8A08C?style=for-the-badge&logoColor=white)
 
 *Learning, building & exploring ✦*
@@ -22,8 +22,8 @@ Soy estudiante de último año de **Ingeniería en Informática en la Universida
 
 Me interesa el desarrollo de software y la creación de productos digitales. Disfruto aprender, resolver problemas y entender cómo se conectan las distintas partes de un sistema.
 
-- Trabajo en ORION, una plataforma académica de gestión de incidentes, donde contribuyo al desarrollo backend.
-- Me interesa crear productos digitales útiles, desde la idea hasta su implementación.
+- He participado en el desarrollo backend de ORION, una plataforma académica de gestión de incidentes.
+- Realicé mi práctica industrial en Aseguramiento de Calidad de Software (QA) en VISIION.
 - Disfruto explorar distintas áreas de la informática mientras sigo fortaleciendo mis habilidades.
 
 <br clear="right" />
@@ -34,11 +34,15 @@ Me interesa el desarrollo de software y la creación de productos digitales. Dis
 
 <div align="center">
 
-<sub>Tecnologías utilizadas en proyectos y durante mi formación académica.</sub>
+**Tecnologías que he utilizado en proyectos**
 
-[![Tecnologías](https://skillicons.dev/icons?i=python,ts,js,cpp,html,react,tailwind,bootstrap,nodejs,nestjs,fastapi,spring,postgres,mongodb,prisma,aws,docker,kubernetes,jenkins,git,postman,jest,github,vscode&theme=dark&perline=8)](https://skillicons.dev)
+[![Tecnologías principales](https://skillicons.dev/icons?i=java,spring,ts,js,nodejs,nestjs,postgres,mongodb,redis,aws,docker,git,postman,jest&theme=dark&perline=7)](https://skillicons.dev)
 
-<sub>También he trabajado con Swagger / OpenAPI para documentar APIs.</sub>
+**Otras herramientas y tecnologías exploradas durante mi formación**
+
+Python · React · HTML/CSS · Tailwind CSS · Prisma · FastAPI · Kubernetes · Jenkins · C++
+
+<sub>También he utilizado Swagger / OpenAPI para documentar APIs y herramientas de testing durante mi formación y práctica.</sub>
 
 </div>
 
